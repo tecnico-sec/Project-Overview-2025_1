@@ -232,7 +232,7 @@ Until the end of the day of your presentation session:
 
 # 2. Conclusion
 
-IMPORTANT: keep track of the course [web site](https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS/2023-2024/1-semestre) for updates and links to online forms.
+IMPORTANT: keep track of the course [web site](https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS11/2024-2025/1-semestre) for updates and links to online forms.
 
 If there are changes to this document, they can be consulted in the _Git Commit History_.
 
