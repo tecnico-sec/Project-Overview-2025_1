@@ -230,42 +230,7 @@ Until the end of the day of your presentation session:
   - add a `VIDEO.url` text file with a link for downloading the demonstration video file. The link should be valid for at least 7 days;
   - create a release tag called `done`.
 
-# 2. Calendar
-
-The relevant dates for the project are shown in the following calendar.
-
-| **Stage**                        | **Deadline**                                                   |
-| ---------------------------------|----------------------------------------------------------------|
-| 1. Assemble team                 | Inform teacher in your lab session (limit: Friday, November 17th, 2023) |
-| 2. Pick scenario                 | Topic list published: Tuesday, November 14th<br />Form opens: Friday, November 17th, 11:30<br />**Closes: Monday, November 20th, 11:30** |
-| 3. Design a secure document format          | During the week of November 20th |
-| 4. Implement secure document format | During the week of November 27th |
-| 5. Build infrastructure       | During the week of December 4th |
-| 6. Protect server communications      | Also during the week of December 4th |
-| 7. Respond to security challenge            | During the week of December 11th |
-| 8. Prepare demonstration         | During the week of December 18th |
-| 9. Complete report               | Also during the week of December 18th |
-| 10. Submit code and report       | **Thursday, December 21st, 17:00** |
-| 11. Check presentation session   | Calendar available: Wednesday, December 20th<br />**Changes close: Friday, December 22nd, 17:00** |
-| 12. Present and defend           | Sessions start Wednesday, January 3rd |
-
-# 3. Grading
-
-The project grade will have the following components:
-
-- First part
-  - Secure Document Library and Tool (30%)
-- Second part
-  - Infrastructure (10%);
-  - Secure Channels (10%);
-- Third part
-  - Security Challenge (20%);
-- Assessment
-  - Report (15%);
-  - Presentation (10%);
-  - Live Demonstration (5%).
-
-# 4. Conclusion
+# 2. Conclusion
 
 IMPORTANT: keep track of the course [web site](https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS/2023-2024/1-semestre) for updates and links to online forms.
 
